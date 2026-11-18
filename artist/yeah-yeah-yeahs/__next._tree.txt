@@ -1,11 +1,12 @@
-:HL["/ledger/_next/static/chunks/caf92d8be74cf630.css","style"]
+:HL["/ledger/_next/static/chunks/9986c2ec10dc7984.css","style"]
 :HL["/ledger/_next/static/media/0595f7052377a1a2-s.p.0de08f1e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ledger/_next/static/media/115e7a2565b70400-s.p.e440a306.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ledger/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ledger/_next/static/media/68d403cf9f2c68c5-s.p.fe21a1cd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ledger/_next/static/media/6c98c9fb873995d2-s.p.4a6499bc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ledger/_next/static/media/81cef6a21128489e-s.p.6cf41120.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ledger/_next/static/media/a083361d37caf3d1-s.p.5c0d0b0d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ledger/_next/static/media/c6e2684784a55443-s.p.ea91da97.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ledger/_next/static/media/e4505858a30c79c2-s.p.1ea8e65d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/ledger/_next/static/chunks/c3f54e850f66504b.css","style"]
-0:{"buildId":"m_3XV_pjv-JWy0L7XrSBW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"artist","paramType":null,"paramKey":"artist","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"yeah-yeah-yeahs","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/ledger/_next/static/chunks/82eec701188b9afa.css","style"]
+0:{"buildId":"HJ-RCmcqByjdmgztdWSDe","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"artist","paramType":null,"paramKey":"artist","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"yeah-yeah-yeahs","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
